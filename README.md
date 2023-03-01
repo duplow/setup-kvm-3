@@ -26,9 +26,9 @@ Componentes necessários para um KVM de até 3 aparelhos:
 
 * **Arduino** qualquer modelo (opcional)
 * 70x Buffers **SN74HC541N** (6 por HDMI, 6 por DisplayPort e 2 por USB)
-* 4x Conectores **USB 3.0 DIP** Fêmea
-* 9x Conectores **HDMI DIP** Fêmea
-* 9x Conectores **DisplayPort DIP** Fêmea
+* 4x Conectores **USB 3.0 DIP** fêmea
+* 9x Conectores **HDMI DIP** fêmea
+* 9x Conectores **DisplayPort DIP** fêmea
 
 > É possível substituir os buffers `SN74HC541N` por multiplexadores `74HC4052`, porém será necessário muitos deles para fazer o mesmo trabalho, para cada `SN74HC541N` será necessário mais ou menos 4 multiplexadores `74HC4052`.
 
