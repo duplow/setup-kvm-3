@@ -10,3 +10,8 @@ Componentes:
 * 3x Módulos Conectores DisplayPort DIP
 
 Suporta até 3 equipamentos conectados nas portas de input.
+
+### Esquemas
+
+Placa USB
+![Placa USB!](/images/PCB-1.PNG)
