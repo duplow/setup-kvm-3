@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Custom")(type "KiCad")(uri "C:/Users/Chronos/Downloads/Displayport/Models/KiCad/47272-0024.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_HD3SS215IRTQR")(type "KiCad")(uri "C:/Users/Chronos/Downloads/Chip/HD3SS215IRTQR/HD3SS215IRTQR.kicad_sym")(options "")(descr "4 Data Lanes Differential Pairs 1:2 Mux/Demux"))
+  (lib (name "Custom_DisplayPort_Connector")(type "KiCad")(uri "${KIPRJMOD}/Custom_DisplayPort_Connector.kicad_sym")(options "")(descr ""))
+)
