@@ -25,10 +25,10 @@ Em desenvolvimento
 
 ### Módulos
 
-- Módulo Alimentação
-- Módulo Displayport
-- Módulo USB 3.0 tipo A
-- Módulo Controle
+- [Módulo Alimentação](/docs/power-module.md)
+- [Módulo Displayport](/docs/displayport-module.md)
+- [Módulo USB 3.0 tipo A](/docs/usb-30-module.md)
+- [Módulo Controle](/docs/controller-module.md)
 
 ### Materiais
 
