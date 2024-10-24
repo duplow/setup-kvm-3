@@ -23,9 +23,9 @@ e assim por diante
 
 ### Fabricação
 
-espessura minima de trilha: 0.2mm
-espaçamento minimo: 0.1524mm (usado 0.25m)
-fotolito: 10.000 DPI
+ - espessura minima das trilhas: 0.2mm
+ - espaçamento minimo: 0.1524mm (usado 0.25m)
+ - fotolito: 10.000 DPI
 
 ### Módulos
 
