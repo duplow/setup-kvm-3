@@ -21,7 +21,11 @@ e assim por diante
 
 ## Instruções
 
-Em desenvolvimento
+### Fabricação
+
+espessura minima de trilha: 0.2mm
+espaçamento minimo: 0.1524mm (usado 0.25m)
+fotolito: 10.000 DPI
 
 ### Módulos
 
